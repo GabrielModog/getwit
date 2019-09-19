@@ -1,6 +1,6 @@
 # Getwit
 
-Get tweets and making a dataset.
+Get tweets and making a simple dataset.
 
 ## Getting Started
 
@@ -8,15 +8,14 @@ Get tweets and making a dataset.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
 ```
-npm install twitter
+npm install
 ```
+Will install all dependecies.
 
 ### Running
 
-You need make a .env file on the same folder of index.js and named the variables. The variables need be the same on the both files. After you can simply type:
+You need make a `.env` file on the same folder of `index.js` and named the variables. The variables need be the same on the both files. After you can simply type:
 
 ```
 node index.js
