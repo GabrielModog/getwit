@@ -1,0 +1,15 @@
+{
+  "name": "getwit",
+  "version": "1.0.1",
+  "description": "small application to make a dataset, all tweets data will be stored on json file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gabrielmodog",
+  "license": "MIT",
+  "dependencies": {
+    "twitter": "^1.7.1",
+    "dotenv": "^8.1.0"
+  }
+}
